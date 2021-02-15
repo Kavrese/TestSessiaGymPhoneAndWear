@@ -1,0 +1,3 @@
+include ':app:wearsinema'
+include ':app'
+rootProject.name = "My ApplicationStrukov"
